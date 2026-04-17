@@ -1,0 +1,7 @@
+#copy your code and paste here 
+st=input()
+st.upper()
+if "COV" in st:
+    print("Veikur!")
+else:
+    print("Ekki veikur!")
